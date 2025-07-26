@@ -1,0 +1,37 @@
+#EXTM3U
+# NOTE: Tous les contenus vidéo et images référencés ci-dessous sont sous licence libre (Creative Commons) ou de test public. 
+# Veillez à respecter l'attribution indiquée par les sources Blender Foundation / Wikimedia Commons.
+
+########## TV (démo) ##########
+#EXTINF:-1 tvg-id="APPLE.TEST.BIPBOP" tvg-name="Apple BIPBOP (Test)" tvg-logo="https://placehold.co/300x300?text=TEST+TV" group-title="TV" archive="0" archive-duration="0" description="Flux HLS de démonstration fourni par Apple pour tester HLS.",Apple BIPBOP (Test)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+########## FILMS (CC BY) ##########
+#EXTINF:-1 tvg-id="BBB.2008" tvg-name="Big Buck Bunny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_buck_bunny_poster_big.jpg" group-title="FR| FILMS" description="Court-métrage libre de la Blender Foundation : un lapin géant décide de se défendre face à trois rongeurs chahuteurs." director="Sacha Goedegebure" actors="—" genres="Animation, Comédie" year="2008" duration="10" rating="" release-date="2008-05-30" backdrop="https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_buck_bunny_poster_big.jpg" trailer="aqz-KE-bpKQ" xui-id="wave-bbb-2008",Big Buck Bunny (2008)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+
+#EXTINF:-1 tvg-id="SINTEL.2010" tvg-name="Sintel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Sintel_poster.jpg" group-title="FR| FILMS" description="Sintel recueille un bébé dragon et se lance dans une quête pour le retrouver." director="Colin Levy" actors="Halina Reijn, Thom Hoffman" genres="Animation, Fantasy" year="2010" duration="15" rating="" release-date="2010-09-27" backdrop="https://upload.wikimedia.org/wikipedia/commons/8/8f/Sintel_poster.jpg" trailer="eRsGyueVLvQ" xui-id="wave-sintel-2010",Sintel (2010)
+https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TOS.2012" tvg-name="Tears of Steel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Tears_of_Steel_frame_04_2b.jpg" group-title="FR| FILMS" description="Court-métrage VFX de la Blender Foundation, mélange live-action et CGI, situé à Amsterdam." director="Ian Hubert" actors="Derek de Lint, Rogier Schippers" genres="Science-Fiction" year="2012" duration="12" rating="" release-date="2012-09-26" backdrop="https://upload.wikimedia.org/wikipedia/commons/9/9a/Tears_of_Steel_frame_04_2b.jpg" trailer="OHOpb2fS-cM" xui-id="wave-tos-2012",Tears of Steel (2012)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
+
+#EXTINF:-1 tvg-id="ED.2006" tvg-name="Elephants Dream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Elephants_Dream_-_Final_Poster_Source.png" group-title="FR| FILMS" description="Deux personnages, Proog et Emo, explorent une machine infinie dans ce premier 'Open Movie' Blender." director="Bassam Kurdali" actors="Cas Jansen, Tygo Gernandt (VO)" genres="Animation, Science-Fiction" year="2006" duration="11" rating="" release-date="2006-03-24" backdrop="https://upload.wikimedia.org/wikipedia/commons/6/6a/Elephants_Dream_-_Final_Poster_Source.png" trailer="1mQDmYbWWk4" xui-id="wave-elephantsdream-2006",Elephants Dream (2006)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
+
+########## SÉRIES (démo FAKE) ##########
+#EXTINF:-1 tvg-id="CAMI.S01E01" tvg-name="Caminandes S01E01" tvg-logo="https://placehold.co/300x300?text=CAMINANDES" group-title="FR| SÉRIES" description="[FAKE DÉMO] Épisode 1: Llama Drama — série courte CC BY de la Blender Foundation." actors="—" director="Pablo Vázquez" genres="Animation, Comédie" season="1" episode="1" episode-title="Llama Drama" series-name="Caminandes" episode-duration="2" release-date="2013-11-07" backdrop="https://placehold.co/1280x720?text=BACKDROP" trailer="arxPR-veWPw" xui-id="wave-cami-s01e01-demo",Caminandes - S01E01 - Llama Drama (FAKE DÉMO)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+
+#EXTINF:-1 tvg-id="CAMI.S01E02" tvg-name="Caminandes S01E02" tvg-logo="https://placehold.co/300x300?text=CAMINANDES" group-title="FR| SÉRIES" description="[FAKE DÉMO] Épisode 2: Gran Dillama — remplacez l'URL par votre flux officiel." actors="—" director="Pablo Vázquez" genres="Animation, Comédie" season="1" episode="2" episode-title="Gran Dillama" series-name="Caminandes" episode-duration="2" release-date="2013-12-01" backdrop="https://placehold.co/1280x720?text=BACKDROP" trailer="FJXu9kibjAE" xui-id="wave-cami-s01e02-demo",Caminandes - S01E02 - Gran Dillama (FAKE DÉMO)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+
+#EXTINF:-1 tvg-id="CAMI.S01E03" tvg-name="Caminandes S01E03" tvg-logo="https://placehold.co/300x300?text=CAMINANDES" group-title="FR| SÉRIES" description="[FAKE DÉMO] Épisode 3: Llamigos — remplacez l'URL par votre flux officiel." actors="—" director="Pablo Vázquez" genres="Animation, Comédie" season="1" episode="3" episode-title="Llamigos" series-name="Caminandes" episode-duration="3" release-date="2016-01-01" backdrop="https://placehold.co/1280x720?text=BACKDROP" trailer="nubS4qVVelc" xui-id="wave-cami-s01e03-demo",Caminandes - S01E03 - Llamigos (FAKE DÉMO)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+
+########## Groupes FAKE supplémentaires (pour UI/tri) ##########
+#EXTINF:-1 tvg-id="FAKE.DOCS" tvg-name="Docs Démo" tvg-logo="https://placehold.co/300x300?text=DOCS" group-title="FR| DOCUMENTAIRES" description="[FAKE] Catégorie de démonstration pour tests UI.",Docs Démo
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="FAKE.SPORTS" tvg-name="Sports Démo" tvg-logo="https://placehold.co/300x300?text=SPORTS" group-title="SPORT" description="[FAKE] Catégorie de démonstration pour tests UI.",Sports Démo
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
