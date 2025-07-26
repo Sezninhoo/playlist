@@ -1,0 +1,62 @@
+#EXTM3U
+# Wave IPTV – Playlist publique/officielle enrichie (Google‑compliant)
+# Note: Chaînes = flux officiels/publics ; VOD = films/séries Creative Commons (Blender/Archive.org).
+# Aucune EPG incluse ; images sans copyright (Wikimedia/placeholder).
+
+# ====== CHAÎNES TV PUBLIQUES / OFFICIELLES ======
+#EXTINF:-1 tvg-id="EbS.eu" tvg-name="EU EbS (Europe by Satellite)" group-title="EU| INSTITUTIONS UE" archive="0" archive-duration="0" description="Chaîne officielle d'information audiovisuelle de la Commission européenne (Europe by Satellite).",EU EbS (Europe by Satellite)
+https://streams.prd.commavservices.eu/live/ebs/index.m3u8
+#EXTINF:-1 tvg-id="EbSplus.eu" tvg-name="EU EbS+" group-title="EU| INSTITUTIONS UE" archive="0" archive-duration="0" description="Chaîne d'événements en direct et conférences de presse de l'UE (Europe by Satellite Plus).",EU EbS+
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW (Deutsche Welle) English" group-title="INT| NEWS" archive="0" archive-duration="0" description="Diffuseur public international allemand.",DW (Deutsche Welle) English
+https://dwamdstream102.akamaized.net/hls/live/2005530/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHK WORLD-JAPAN" group-title="INT| NEWS" archive="0" archive-duration="0" description="Chaîne internationale de NHK (service public japonais).",NHK WORLD-JAPAN
+https://master.nhkworld.jp/nhkworld-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 (FR)" group-title="FR| NEWS" archive="0" archive-duration="0" description="Chaîne d'information internationale en français.",France 24 (FR)
+https://static.france24.com/live/F24_FR_LO_HLS/live_ios.m3u8
+#EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 (EN)" group-title="INT| NEWS" archive="0" archive-duration="0" description="International news channel (English).",France 24 (EN)
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="AJE.qa" tvg-name="Al Jazeera English" group-title="INT| NEWS" archive="0" archive-duration="0" description="Chaîne d'information internationale – anglais.",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" group-title="INT| NEWS" archive="0" archive-duration="0" description="Diffuseur public international turc.",TRT World
+https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" group-title="KR| WORLD" archive="0" archive-duration="0" description="Chaîne internationale de KBS (service public coréen).",KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-id="Arirang.kr" tvg-name="Arirang World" group-title="KR| WORLD" archive="0" archive-duration="0" description="Chaîne internationale de la Korea International Broadcasting Foundation.",Arirang World
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.sg" tvg-name="CNA - Channel NewsAsia" group-title="INT| NEWS" archive="0" archive-duration="0" description="Chaîne d'information internationale (Mediacorp, Singapour).",CNA - Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="ESAWebTV.fr" tvg-name="ESA Web TV (FR feed)" group-title="SCIENCE| SPACE" archive="0" archive-duration="0" description="Chaîne officielle de l'Agence spatiale européenne (programmes en FR).",ESA Web TV (FR feed)
+https://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" group-title="IT| NEWS" archive="0" archive-duration="0" description="Chaîne d'info 24/7 de la RAI (Italie).",Rai News 24
+https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8
+
+# ====== VOD : FILMS (CC / OPEN MOVIES) ======
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Big_buck_bunny_poster_big.jpg" group-title="FR| FILMS (CC)" description="Court-métrage Blender légendaire : un lapin bon vivant se rebelle contre trois écureuils turbulents." director="Sacha Goedegebure" genres="Animation, Comédie" year="2008" duration="10" backdrop="https://upload.wikimedia.org/wikipedia/commons/6/69/Big.Buck.Bunny.-.000.png" trailer="https://www.youtube.com/watch?v=aqz-KE-bpKQ",Big Buck Bunny (2008) — CC BY
+https://download.blender.org/demo/movies/BBB/BBB-1080-p10.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Sintel_poster.jpg" group-title="FR| FILMS (CC)" description="Une jeune aventurière part à la recherche d'un petit dragon qu'elle a recueilli." director="Colin Levy" genres="Animation, Fantastique, Aventure" year="2010" duration="15" backdrop="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sintel_movie_4K.webm" trailer="https://www.youtube.com/watch?v=eRsGyueVLvQ",Sintel (2010) — CC BY
+https://archive.org/download/Sintel/Sintel.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Elephants_Dream_s5_both.jpg" group-title="FR| FILMS (CC)" description="Deux personnages explorent une machine surréaliste aux règles changeantes." director="Bassam Kurdali" genres="Animation, Expérimental, Fantastique" year="2006" duration="11" trailer="https://www.youtube.com/watch?v=1mQDmYbWWk4",Elephants Dream (2006) — CC BY
+https://archive.org/download/elephants-dream-2006/elephants-dream-2006.mp4
+#EXTINF:-1 group-title="FR| FILMS (CC)" description="Court de science-fiction mélangeant prises de vue réelles et VFX réalisés avec Blender." genres="Science-Fiction, Drame" year="2012" duration="12" trailer="https://www.youtube.com/watch?v=R6MlUcmOul8",Tears of Steel (2012) — CC BY
+https://archive.org/download/Tears-of-Steel/TearsOfSteel_1080p.mp4
+#EXTINF:-1 group-title="FR| FILMS (CC)" description="Le héros de BD Agent 327 se retrouve dans un salon de coiffure pas si anodin." genres="Animation, Comédie, Action" year="2017" duration="4" trailer="https://www.youtube.com/watch?v=mN0zPOpADL4",Agent 327: Operation Barbershop (2017) — CC BY
+https://archive.org/download/Agent327OperationBarbershop/Agent_327_Operation_Barbershop_1080p.mp4
+#EXTINF:-1 group-title="FR| FILMS (CC)" description="Une bergère et son chien réveillent des esprits saisonniers." genres="Animation, Fantastique" year="2019" duration="7" trailer="https://www.youtube.com/watch?v=WhWc3b3KhnY",Spring (2019) — CC BY
+https://archive.org/download/spring-blender-open-movie/Spring.mp4
+#EXTINF:-1 group-title="FR| FILMS (CC)" description="Une course effrénée pour un café, chorégraphiée comme une poursuite." genres="Animation, Comédie" year="2020" duration="3" trailer="https://www.youtube.com/watch?v=EagA2edg8DE",Coffee Run (2020) — CC BY
+https://archive.org/download/coffee-run/coffee_run_1080p.mp4
+#EXTINF:-1 group-title="FR| FILMS (CC)" description="Un groupe d'ados découvre des créatures pas si mignonnes en forêt." genres="Animation, Comédie, Horreur" year="2021" duration="10" trailer="https://www.youtube.com/watch?v=_uV4jB7T9b0",Sprite Fright (2021) — CC BY
+https://archive.org/download/sprite-fright/SpriteFright_4k.mp4
+
+# ====== VOD : SÉRIES (CC) ======
+#EXTINF:-1 group-title="FR| SÉRIES (CC)" description="Koro, le lama, tente de traverser une route déserte." genres="Animation, Comédie" year="2013" episode-duration="2" season="1" episode="1" episode-title="Llama Drama" series-name="Caminandes" backdrop="https://placehold.co/1280x720?text=CAMINANDES",Caminandes - S01E01 - Llama Drama
+https://archive.org/download/Caminandes1LlamaDrama/Caminandes1LlamaDrama_512kb.mp4
+#EXTINF:-1 group-title="FR| SÉRIES (CC)" description="Koro affronte une barrière et de nouveaux obstacles." genres="Animation, Comédie" year="2013" episode-duration="2" season="1" episode="2" episode-title="Gran Dillama" series-name="Caminandes" backdrop="https://placehold.co/1280x720?text=CAMINANDES",Caminandes - S01E02 - Gran Dillama
+https://archive.org/download/CaminandesGranDillama/Caminandes_Gran_Dillama_720p.mp4
+#EXTINF:-1 group-title="FR| SÉRIES (CC)" description="Koro rencontre un pingouin espiègle nommé Oti." genres="Animation, Comédie" year="2016" episode-duration="3" season="1" episode="3" episode-title="Llamigos" series-name="Caminandes" backdrop="https://placehold.co/1280x720?text=CAMINANDES",Caminandes - S01E03 - Llamigos
+https://archive.org/download/CaminandesLlamigos/Caminandes_Llamigos_1080p.mp4
+
+# ====== TESTS TECHNIQUES (HLS) ======
+#EXTINF:-1 tvg-id="" tvg-name="Apple BIPBOP Test (HLS)" group-title="TEST| HLS" archive="0" archive-duration="0" description="Flux HLS de test Apple (utile pour diagnostiquer le player).",Apple BIPBOP Test (HLS)
+http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
