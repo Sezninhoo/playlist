@@ -1,28 +1,28 @@
 #EXTM3U
-# Wave IPTV – Playlist publique/officielle enrichie (Google‑compliant)
-# Note: Chaînes = flux officiels/publics ; VOD = films/séries Creative Commons (Blender/Archive.org).
-# Aucune EPG incluse ; images sans copyright (Wikimedia/placeholder).
+# Wave IPTV – Official/public enriched playlist (Google‑compliant)
+# Note: Channels = official/public streams ; VOD = Creative Commons movies/series (Blender/Archive.org).
+# No EPG included ; copyright-free images only (Wikimedia/placeholder).
 
-# ====== CHAÎNES TV PUBLIQUES / OFFICIELLES ======
-#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 (FR)" group-title="FR| NEWS" archive="0" archive-duration="0" description="Chaîne d'information internationale en français.",France 24 (FR)
+# ====== PUBLIC / OFFICIAL TV CHANNELS ======
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 (FR)" group-title="FR| NEWS" archive="0" archive-duration="0" description="International news channel in French.",France 24 (FR)
 https://static.france24.com/live/F24_FR_LO_HLS/live_ios.m3u8
 #EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 (EN)" group-title="INT| NEWS" archive="0" archive-duration="0" description="International news channel (English).",France 24 (EN)
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="AJE.qa" tvg-name="Al Jazeera English" group-title="INT| NEWS" archive="0" archive-duration="0" description="Chaîne d'information internationale – anglais.",Al Jazeera English
+#EXTINF:-1 tvg-id="AJE.qa" tvg-name="Al Jazeera English" group-title="INT| NEWS" archive="0" archive-duration="0" description="International news broadcaster – English.",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" group-title="IT| NEWS" archive="0" archive-duration="0" description="Chaîne d'info 24/7 de la RAI (Italie).",Rai News 24
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" group-title="IT| NEWS" archive="0" archive-duration="0" description="24/7 news channel by RAI (Italy).",Rai News 24
 https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8
 
-# ====== VOD : FILMS (CC / OPEN MOVIES) ======
-#EXTINF:-1 tvg-logo="https://dn790004.ca.archive.org/0/items/Sintel/Poster.jpg" group-title="FR| FILMS (CC)" description="Une jeune aventurière part à la recherche d'un petit dragon qu'elle a recueilli." director="Colin Levy" genres="Animation, Fantastique, Aventure" year="2010" duration="15" backdrop="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sintel_movie_4K.webm" trailer="https://www.youtube.com/watch?v=eRsGyueVLvQ",Sintel (2010) — CC BY
+# ====== VOD: MOVIES (CC / OPEN MOVIES) ======
+#EXTINF:-1 tvg-logo="https://dn790004.ca.archive.org/0/items/Sintel/Poster.jpg" group-title="FR| FILMS (CC)" description="A young adventurer sets out to find a little dragon she once rescued." director="Colin Levy" genres="Animation, Fantasy, Adventure" year="2010" duration="15" backdrop="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sintel_movie_4K.webm" trailer="https://www.youtube.com/watch?v=eRsGyueVLvQ",Sintel (2010) — CC BY
 https://archive.org/download/Sintel/sintel-2048-stereo_512kb.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Elephants_Dream_-_Final_Poster_Source.png" group-title="FR| FILMS (CC)" description="Deux personnages explorent une machine surréaliste aux règles changeantes." director="Bassam Kurdali" genres="Animation, Expérimental, Fantastique" year="2006" duration="11" trailer="https://www.youtube.com/watch?v=1mQDmYbWWk4",Elephants Dream (2006) — CC BY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Elephants_Dream_-_Final_Poster_Source.png" group-title="FR| FILMS (CC)" description="Two characters explore a surreal machine governed by shifting rules." director="Bassam Kurdali" genres="Animation, Experimental, Fantasy" year="2006" duration="11" trailer="https://www.youtube.com/watch?v=1mQDmYbWWk4",Elephants Dream (2006) — CC BY
 https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4
 
-# ====== VOD : SÉRIES (CC) ======
-#EXTINF:-1 tvg-logo="https://archive.org/download/Caminandes/Caminandes_thumb.jpg" tvg-name="Caminandes" group-title="FR| SÉRIES (CC)" description="Koro, le lama, tente de traverser une route déserte." genres="Animation, Comédie" year="2013" episode-duration="2" season="1" episode="1" episode-title="Llama Drama" series-name="Caminandes" backdrop="https://upload.wikimedia.org/wikipedia/commons/a/a8/Blender_Foundation_-_Caminandes_-_Episode_2_-_Gran_Dillama_-_Cover_thumbnail.png",Caminandes - S01E01 - Llama Drama
+# ====== VOD: SERIES (CC) ======
+#EXTINF:-1 tvg-logo="https://archive.org/download/Caminandes/Caminandes_thumb.jpg" tvg-name="Caminandes" group-title="FR| SÉRIES (CC)" description="Koro the llama tries to cross a deserted road." genres="Animation, Comedy" year="2013" episode-duration="2" season="1" episode="1" episode-title="Llama Drama" series-name="Caminandes" backdrop="https://upload.wikimedia.org/wikipedia/commons/a/a8/Blender_Foundation_-_Caminandes_-_Episode_2_-_Gran_Dillama_-_Cover_thumbnail.png",Caminandes - S01E01 - Llama Drama
 https://archive.org/download/Caminandes1LlamaDrama/01_llama_drama_1080p.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/Caminandes/Caminandes_thumb.jpg" tvg-name="Caminandes" group-title="FR| SÉRIES (CC)" description="Koro affronte une barrière et de nouveaux obstacles." genres="Animation, Comédie" year="2013" episode-duration="2" season="1" episode="2" episode-title="Gran Dillama" series-name="Caminandes" backdrop="https://upload.wikimedia.org/wikipedia/commons/a/a8/Blender_Foundation_-_Caminandes_-_Episode_2_-_Gran_Dillama_-_Cover_thumbnail.png",Caminandes - S01E02 - Gran Dillama
+#EXTINF:-1 tvg-logo="https://archive.org/download/Caminandes/Caminandes_thumb.jpg" tvg-name="Caminandes" group-title="FR| SÉRIES (CC)" description="Koro faces a barrier and new obstacles." genres="Animation, Comedy" year="2013" episode-duration="2" season="1" episode="2" episode-title="Gran Dillama" series-name="Caminandes" backdrop="https://upload.wikimedia.org/wikipedia/commons/a/a8/Blender_Foundation_-_Caminandes_-_Episode_2_-_Gran_Dillama_-_Cover_thumbnail.png",Caminandes - S01E02 - Gran Dillama
 https://archive.org/download/Caminandes2GranDillama/02_gran_dillama_1080p.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/Caminandes/Caminandes_thumb.jpg" tvg-name="Caminandes" group-title="FR| SÉRIES (CC)" description="Koro rencontre un pingouin espiègle nommé Oti." genres="Animation, Comédie" year="2016" episode-duration="3" season="1" episode="3" episode-title="Llamigos" series-name="Caminandes" backdrop="https://upload.wikimedia.org/wikipedia/commons/a/a8/Blender_Foundation_-_Caminandes_-_Episode_2_-_Gran_Dillama_-_Cover_thumbnail.png",Caminandes - S01E03 - Llamigos
+#EXTINF:-1 tvg-logo="https://archive.org/download/Caminandes/Caminandes_thumb.jpg" tvg-name="Caminandes" group-title="FR| SÉRIES (CC)" description="Koro meets a mischievous penguin named Oti." genres="Animation, Comedy" year="2016" episode-duration="3" season="1" episode="3" episode-title="Llamigos" series-name="Caminandes" backdrop="https://upload.wikimedia.org/wikipedia/commons/a/a8/Blender_Foundation_-_Caminandes_-_Episode_2_-_Gran_Dillama_-_Cover_thumbnail.png",Caminandes - S01E03 - Llamigos
 https://archive.org/download/CaminandesLlamigos/Caminandes_%20Llamigos-1080p.mp4
