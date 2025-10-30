@@ -3,29 +3,12 @@
 # Channels = official public HLS endpoints ; VOD = Creative Commons (Blender/Archive.org).
 
 # ====== PUBLIC / OFFICIAL TV CHANNELS ======
-#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 (FR)" group-title="FR| NEWS" description="Chaîne d’info internationale (FR).",France 24 (FR)
-https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
-
-#EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 (EN)" group-title="INT| NEWS" description="International news (EN).",France 24 (EN)
-https://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
 
 #EXTINF:-1 tvg-id="AJE.qa" tvg-name="Al Jazeera English" group-title="INT| NEWS" description="Al Jazeera English live.",Al Jazeera English
 https://live-hls-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" group-title="INT| NEWS" description="NHK World (EN).",NHK World-Japan (EN)
-https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" group-title="INT| NEWS" description="Deutsche Welle (EN).",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
-#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" group-title="INT| NEWS" description="TRT World (EN).",TRT World
-https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
-
-#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV" group-title="INT| NEWS" description="Arirang TV (EN).",Arirang TV
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-name="Euronews (EN)" group-title="INT| NEWS" description="Euronews English.",Euronews (EN)
-https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 
 # ====== VOD: MOVIES (CC / OPEN MOVIES) ======
 #EXTINF:-1 tvg-logo="https://dn790004.ca.archive.org/0/items/Sintel/Poster.jpg" group-title="FR| FILMS (CC)" description="A young adventurer sets out to find a little dragon she once rescued." director="Colin Levy" genres="Animation, Fantasy, Adventure" year="2010" duration="15" backdrop="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sintel_movie_4K.webm" trailer="https://www.youtube.com/watch?v=eRsGyueVLvQ",Sintel (2010) — CC BY
